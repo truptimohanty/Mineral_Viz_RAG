@@ -214,53 +214,6 @@ var getMarketShareDataViz = function (element, year) {
 }
 
 
-/// Earlier code
-
-// var getMarketShareDataViz = function (element, year) {
-
-//     if (element) {
-
-//         var _mktSharedata = getMarketShareData(element, year);
-//         var _mktShareResdata = getMarketShareResData(element, year);
-
-//         const eleProdShare = {
-//             x: _mktSharedata[0],
-//             y: _mktSharedata[1],
-//             type: 'bar',
-//             name: 'Prod',
-//             text: _mktSharedata[2].map(function (num, idx) {
-//                 return num +' tons';}),
-//             textposition: 'none',
-//             marker: {
-//                 // color: 'rgba(199, 202, 255, 1)'
-//                 //color: 'rgba(207,103, 253, 1)'
-//                 color: 'rgba(208, 47, 164, 1)'
-
-
-//             }
-//         };
-
-//         const eleReserveShare = {
-//             x: _mktShareResdata[0],
-//             y: _mktShareResdata[1],
-//             type: 'bar',
-//             name: 'Res',
-//             text: _mktShareResdata[2].map(function (num, idx) {
-//                 return num +' tons';}),
-//             textposition: 'none',
-//             marker: {
-//                 // color: 'rgba(193, 235, 192, 1 )'
-//                 //color: 'rgba(153, 255, 156, 1 )'
-//                 color: 'rgba(47, 208, 91, 1)'
-
-//             }
-//         };
-//         return [eleProdShare, eleReserveShare]
-//     } else {
-//         return [[], []]
-//     }
-// }
-
 // Function to create a new tab
 var createTab = function (element, elementName, elementContent) {
     // Create tab element
@@ -280,8 +233,6 @@ var createTab = function (element, elementName, elementContent) {
     content.id = element + '_content';
     content.innerHTML = 'This is the content of ' + elementName + ' tab.';
 
-    // Append remove button to the tab
-    //TODO: currently removing is not added.
 
     // Append tab and content to their respective containers
     document.getElementById('tabs').appendChild(tab);
@@ -669,6 +620,17 @@ var updateVizs = function () {
                     size:17
                 }
             },
+
+            yaxis: {
+                automargin: true,
+                tickfont:{
+                    weight:7,
+                    size:17
+                }
+            },
+
+            
+            
             barmode: 'group',
             margin: {
                 t: 25
@@ -725,52 +687,7 @@ function objectToCsv(alldata) {
 
 function download(e, ftype) {
 
-    // if (Object.keys(hhiProductionMulti).length > 0) {
-    //     var dataDownload = [];
-    //     for (let key in hhiProductionMulti) {
-    //         var elementData = dataProd.filter(function (r) {
-    //             return r.element === key;
-    //         });
-    //         dataDownload.push(elementData);
-    //     }
-
-    //     // Convert object data to CSV format
-    //     const csvContent = objectToCsv(dataDownload);
-
-    //     let dataDownloadStr = "data:text/csv;charset=utf-8," + csvContent;
-    //     var encodedUri = encodeURI(dataDownloadStr);
-    //     window.open(encodedUri);
-    // } else {
-    //     const csvContent = objectToCsv([dataProd]);
-
-    //     let dataDownloadStr = "data:text/csv;charset=utf-8," + csvContent;
-    //     var encodedUri = encodeURI(dataDownloadStr);
-    //     window.open(encodedUri);
-    // }
-
-    // if (Object.keys(hhiReserveMulti).length > 0) {
-    //     var dataDownload = [];
-    //     for (let key in hhiReserveMulti) {
-    //         var elementData = dataReserve.filter(function (r) {
-    //             return r.element === key;
-    //         });
-    //         dataDownload.push(elementData);
-    //     }
-
-    //     // Convert object data to CSV format
-    //     const csvContent = objectToCsv(dataDownload);
-
-    //     let dataDownloadStr = "data:text/csv;charset=utf-8," + csvContent;
-    //     var encodedUri = encodeURI(dataDownloadStr);
-    //     window.open(encodedUri);
-    // } else {
-    //     const csvContent = objectToCsv([dataReserve]);
-
-    //     let dataDownloadStr = "data:text/csv;charset=utf-8," + csvContent;
-    //     var encodedUri = encodeURI(dataDownloadStr);
-    //     window.open(encodedUri);
-    // }
-
+    
     e.preventDefault();
     if(ftype == 'prod'){
         const csvContent = objectToCsv([dataProd]);

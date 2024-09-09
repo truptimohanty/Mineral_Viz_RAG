@@ -2,8 +2,7 @@ import os
 from pprint import pprint
 from langchain.memory import ConversationBufferMemory
 
-# from langchain.document_loaders import PyPDFLoader
-# from langchain.text_splitter import RecursiveCharacterTextSplitter
+
 from langchain_community.llms.huggingface_pipeline import HuggingFacePipeline
 from langchain.embeddings import HuggingFaceEmbeddings
 from langchain.vectorstores import Chroma
@@ -166,9 +165,7 @@ class LLMResponse():
             else:
                 res = NO_RESPONSE_MSG
         
-        # maintained_memory['inputs'].append({"question":f'<|begin_of_text|><|start_header_id|>user<|end_header_id|>{ question }<|eot_id|>'})
-        # maintained_memory['outputs'].append({"result":f'<|start_header_id|>assistant<|end_header_id|>{ res }<|eot_id|>'})
-        
+      
         maintained_memory['inputs'].append({"question": question })
         maintained_memory['outputs'].append({"result": res })
         
