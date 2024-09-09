@@ -191,7 +191,7 @@ var getMarketShareDataViz = function (element, year) {
             text: unifiedData.map(data => data.prod_tons + ' tons'),
             textposition: 'none',
             marker: {
-                color: 'rgba(44,127,184,1)'
+                color: 'rgba(8,104,172,1)'
             }
         };
 
@@ -203,7 +203,7 @@ var getMarketShareDataViz = function (element, year) {
             text: unifiedData.map(data => data.res_tons + ' tons'),
             textposition: 'none',
             marker: {
-                color: 'rgba(127,205,187,1)'
+                color: 'rgba(186,228,188,1)'
             }
         };
 

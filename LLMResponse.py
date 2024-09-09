@@ -38,12 +38,6 @@ class LLMResponse():
         self.retriever_pdf = self.vectordb_pdf.as_retriever(search_kwargs={'k':5})
         self.retriever_json = self.vectordb_json.as_retriever(search_kwargs={'k':15})
         
-        # self.hf_llm =HuggingFaceHub(
-        #                     repo_id = MODEL_LLM_NAME,
-
-        #                     huggingfacehub_api_token="XXXXXXXXXXXXXXXX", ## use your hugging face hub access token
-        #                     model_kwargs={"temperature":0.1, "max_new_tokens":2000}
-        #                     )
         
         self.hf_llm = HuggingFacePipeline.from_model_id(
             model_id=MODEL_LLM_NAME,
@@ -79,8 +73,6 @@ class LLMResponse():
             for i in range(len(maintained_memory['inputs'])):
                 local_memory.append(f'<|start_header_id|>user<|end_header_id|> { maintained_memory["inputs"][i]["question"] }<|eot_id|>')
                 local_memory.append(f'<|start_header_id|>assistant<|end_header_id|> { maintained_memory["outputs"][i]["result"] }<|eot_id|>')
-                # local_memory.append(maintained_memory['inputs'][i]["question"])
-                # local_memory.append(maintained_memory['outputs'][i]["result"])
                 user_system_conversation.append(f'user : {maintained_memory["inputs"][i]["question"]} \n')
                 user_system_conversation.append(f'system : {maintained_memory["outputs"][i]["result"]} \n')
         else:
