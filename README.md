@@ -1,7 +1,18 @@
 # Mineral_Viz_RAG
 
 ### AI Assistance to Global Mineral Resource Analysis and Visualization
-1. Clone the repository to your local system.  
-2. Run pip install -r requirements.txt to install the necessary dependencies.  
-3. Execute python app.py to start the application.  
-4. Open your web browser and go to http://127.0.0.1:8080
+1. Clone/download the repository to your local system.
+2. Open a terminal and change the directory to the repository directory
+   ```
+   cd \path\to\reposity\
+   ``` 
+4. Run the following command to install the necessary dependencies.
+   ```
+   pip install -r requirements.txt
+   ```
+5. Execute the following command to start the application.
+   ```
+   python app.py
+   ```
+6. Open your web browser and go to
+     http://127.0.0.1:8080
