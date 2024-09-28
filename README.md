@@ -20,7 +20,7 @@
 
 ### How to use your own data for querying
 
-1. The data preferably in PDFs or CSV formatn required to be placed in the user_data directory.
+1. The data preferably in PDFs or CSV format required to be placed in the user_data directory.
 
 2. Execute the following command to create a custom VectorDB that enables the LLM to interact with and query this custom database. 
    ```
