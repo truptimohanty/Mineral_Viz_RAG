@@ -1,0 +1,702 @@
+[
+    {
+        "formula": "Nb99.0Zr1.0",
+        "Temperature (deg C)": 24,
+        "Yield Strength (MPa)": 255.8
+    },
+    {
+        "formula": "Nb99.0Zr1.0",
+        "Temperature (deg C)": 90,
+        "Yield Strength (MPa)": 147.55
+    },
+    {
+        "formula": "Nb99.0Zr1.0",
+        "Temperature (deg C)": 1371,
+        "Yield Strength (MPa)": 48.27
+    },
+    {
+        "formula": "Nb99.0Zr1.0",
+        "Temperature (deg C)": 1482,
+        "Yield Strength (MPa)": 31.72
+    },
+    {
+        "formula": "Nb99.0Zr1.0",
+        "Temperature (deg C)": 1649,
+        "Yield Strength (MPa)": 16.13
+    },
+    {
+        "formula": "Nb94.9Zr5.1",
+        "Temperature (deg C)": 16,
+        "Yield Strength (MPa)": 425.49
+    },
+    {
+        "formula": "Nb94.9Zr5.1",
+        "Temperature (deg C)": 227,
+        "Yield Strength (MPa)": 397.01
+    },
+    {
+        "formula": "Nb94.9Zr5.1",
+        "Temperature (deg C)": 446,
+        "Yield Strength (MPa)": 381.76
+    },
+    {
+        "formula": "Nb94.9Zr5.1",
+        "Temperature (deg C)": 659,
+        "Yield Strength (MPa)": 383.03
+    },
+    {
+        "formula": "Nb94.9Zr5.1",
+        "Temperature (deg C)": 885,
+        "Yield Strength (MPa)": 373.3
+    },
+    {
+        "formula": "Nb94.9Zr5.1",
+        "Temperature (deg C)": 1092,
+        "Yield Strength (MPa)": 180.58
+    },
+    {
+        "formula": "Nb94.9Zr5.1",
+        "Temperature (deg C)": 1315,
+        "Yield Strength (MPa)": 79.36
+    },
+    {
+        "formula": "Nb94.9Zr5.1",
+        "Temperature (deg C)": 1372,
+        "Yield Strength (MPa)": 105.02
+    },
+    {
+        "formula": "Nb91.2V8.8",
+        "Temperature (deg C)": 24,
+        "Yield Strength (MPa)": 372.33
+    },
+    {
+        "formula": "Nb91.2V8.8",
+        "Temperature (deg C)": 149,
+        "Yield Strength (MPa)": 322.0
+    },
+    {
+        "formula": "Nb91.2V8.8",
+        "Temperature (deg C)": 316,
+        "Yield Strength (MPa)": 270.28
+    },
+    {
+        "formula": "Nb91.2V8.8",
+        "Temperature (deg C)": 427,
+        "Yield Strength (MPa)": 271.66
+    },
+    {
+        "formula": "Nb91.2V8.8",
+        "Temperature (deg C)": 1093,
+        "Yield Strength (MPa)": 217.19
+    },
+    {
+        "formula": "Nb91.2V8.8",
+        "Temperature (deg C)": 1204,
+        "Yield Strength (MPa)": 190.3
+    },
+    {
+        "formula": "Nb91.2V8.8",
+        "Temperature (deg C)": 1316,
+        "Yield Strength (MPa)": 156.52
+    },
+    {
+        "formula": "Nb91.2V8.8",
+        "Temperature (deg C)": 1371,
+        "Yield Strength (MPa)": 121.35
+    },
+    {
+        "formula": "Nb91.2V8.8",
+        "Temperature (deg C)": 1538,
+        "Yield Strength (MPa)": 93.77
+    },
+    {
+        "formula": "Nb92.0Hf5.4Ti2.0Zr0.5",
+        "Temperature (deg C)": 24,
+        "Yield Strength (MPa)": 347.51
+    },
+    {
+        "formula": "Nb92.0Hf5.4Ti2.0Zr0.5",
+        "Temperature (deg C)": 1093,
+        "Yield Strength (MPa)": 126.87
+    },
+    {
+        "formula": "Nb92.0Hf5.4Ti2.0Zr0.5",
+        "Temperature (deg C)": 1371,
+        "Yield Strength (MPa)": 71.02
+    },
+    {
+        "formula": "Nb92.0Hf5.4Ti2.0Zr0.5",
+        "Temperature (deg C)": 1482,
+        "Yield Strength (MPa)": 59.3
+    },
+    {
+        "formula": "Nb92.0Hf5.4Ti2.0Zr0.5",
+        "Temperature (deg C)": 1649,
+        "Yield Strength (MPa)": 28.96
+    },
+    {
+        "formula": "Nb88.7Ta5.7W5.6",
+        "Temperature (deg C)": 24,
+        "Yield Strength (MPa)": 413.7
+    },
+    {
+        "formula": "Nb88.7Ta5.7W5.6",
+        "Temperature (deg C)": 427,
+        "Yield Strength (MPa)": 344.75
+    },
+    {
+        "formula": "Nb88.7Ta5.7W5.6",
+        "Temperature (deg C)": 538,
+        "Yield Strength (MPa)": 275.8
+    },
+    {
+        "formula": "Nb88.7Ta5.7W5.6",
+        "Temperature (deg C)": 649,
+        "Yield Strength (MPa)": 255.12
+    },
+    {
+        "formula": "Nb88.7Ta5.7W5.6",
+        "Temperature (deg C)": 871,
+        "Yield Strength (MPa)": 241.33
+    },
+    {
+        "formula": "Nb88.7Ta5.7W5.6",
+        "Temperature (deg C)": 982,
+        "Yield Strength (MPa)": 206.85
+    },
+    {
+        "formula": "Nb88.7Ta5.7W5.6",
+        "Temperature (deg C)": 1093,
+        "Yield Strength (MPa)": 165.48
+    },
+    {
+        "formula": "Nb88.7Ta5.7W5.6",
+        "Temperature (deg C)": 1204,
+        "Yield Strength (MPa)": 137.9
+    },
+    {
+        "formula": "Nb88.7Ta5.7W5.6",
+        "Temperature (deg C)": 1316,
+        "Yield Strength (MPa)": 103.43
+    },
+    {
+        "formula": "Nb88.7Ta5.7W5.6",
+        "Temperature (deg C)": 1371,
+        "Yield Strength (MPa)": 89.64
+    },
+    {
+        "formula": "Nb88.7Ta5.7W5.6",
+        "Temperature (deg C)": 1427,
+        "Yield Strength (MPa)": 75.85
+    },
+    {
+        "formula": "Nb88.7Ta5.7W5.6",
+        "Temperature (deg C)": 1538,
+        "Yield Strength (MPa)": 58.61
+    },
+    {
+        "formula": "Nb88.7Ta5.7W5.6",
+        "Temperature (deg C)": 1649,
+        "Yield Strength (MPa)": 48.27
+    },
+    {
+        "formula": "Nb88.7Ta5.7W5.6",
+        "Temperature (deg C)": 1760,
+        "Yield Strength (MPa)": 41.37
+    },
+    {
+        "formula": "Nb88.7Ta5.7W5.6",
+        "Temperature (deg C)": 1871,
+        "Yield Strength (MPa)": 33.1
+    },
+    {
+        "formula": "Nb74.9Ta17.7W6.2Zr1.3",
+        "Temperature (deg C)": 24,
+        "Yield Strength (MPa)": 479.2
+    },
+    {
+        "formula": "Nb74.9Ta17.7W6.2Zr1.3",
+        "Temperature (deg C)": 204,
+        "Yield Strength (MPa)": 366.12
+    },
+    {
+        "formula": "Nb74.9Ta17.7W6.2Zr1.3",
+        "Temperature (deg C)": 427,
+        "Yield Strength (MPa)": 267.53
+    },
+    {
+        "formula": "Nb74.9Ta17.7W6.2Zr1.3",
+        "Temperature (deg C)": 649,
+        "Yield Strength (MPa)": 317.17
+    },
+    {
+        "formula": "Nb74.9Ta17.7W6.2Zr1.3",
+        "Temperature (deg C)": 871,
+        "Yield Strength (MPa)": 223.4
+    },
+    {
+        "formula": "Nb74.9Ta17.7W6.2Zr1.3",
+        "Temperature (deg C)": 982,
+        "Yield Strength (MPa)": 206.85
+    },
+    {
+        "formula": "Nb74.9Ta17.7W6.2Zr1.3",
+        "Temperature (deg C)": 1093,
+        "Yield Strength (MPa)": 203.4
+    },
+    {
+        "formula": "Nb74.9Ta17.7W6.2Zr1.3",
+        "Temperature (deg C)": 1260,
+        "Yield Strength (MPa)": 148.24
+    },
+    {
+        "formula": "Nb74.9Ta17.7W6.2Zr1.3",
+        "Temperature (deg C)": 1371,
+        "Yield Strength (MPa)": 112.39
+    },
+    {
+        "formula": "Nb74.9Ta17.7W6.2Zr1.3",
+        "Temperature (deg C)": 1427,
+        "Yield Strength (MPa)": 98.6
+    },
+    {
+        "formula": "Nb79.3Ta19.5Zr1.2",
+        "Temperature (deg C)": 27,
+        "Yield Strength (MPa)": 493.02
+    },
+    {
+        "formula": "Nb79.3Ta19.5Zr1.2",
+        "Temperature (deg C)": 316,
+        "Yield Strength (MPa)": 420.49
+    },
+    {
+        "formula": "Nb79.3Ta19.5Zr1.2",
+        "Temperature (deg C)": 538,
+        "Yield Strength (MPa)": 440.69
+    },
+    {
+        "formula": "Nb79.3Ta19.5Zr1.2",
+        "Temperature (deg C)": 871,
+        "Yield Strength (MPa)": 382.85
+    },
+    {
+        "formula": "Nb79.3Ta19.5Zr1.2",
+        "Temperature (deg C)": 982,
+        "Yield Strength (MPa)": 340.62
+    },
+    {
+        "formula": "Nb79.3Ta19.5Zr1.2",
+        "Temperature (deg C)": 1093,
+        "Yield Strength (MPa)": 245.14
+    },
+    {
+        "formula": "Nb79.3Ta19.5Zr1.2",
+        "Temperature (deg C)": 1204,
+        "Yield Strength (MPa)": 226.77
+    },
+    {
+        "formula": "Nb79.3Ta19.5Zr1.2",
+        "Temperature (deg C)": 1316,
+        "Yield Strength (MPa)": 117.52
+    },
+    {
+        "formula": "Nb79.3Ta19.5Zr1.2",
+        "Temperature (deg C)": 1427,
+        "Yield Strength (MPa)": 90.89
+    },
+    {
+        "formula": "Nb77.6Ti17.7Zr4.7",
+        "Temperature (deg C)": 22,
+        "Yield Strength (MPa)": 491.4
+    },
+    {
+        "formula": "Nb77.6Ti17.7Zr4.7",
+        "Temperature (deg C)": 93,
+        "Yield Strength (MPa)": 455.19
+    },
+    {
+        "formula": "Nb77.6Ti17.7Zr4.7",
+        "Temperature (deg C)": 204,
+        "Yield Strength (MPa)": 404.5
+    },
+    {
+        "formula": "Nb77.6Ti17.7Zr4.7",
+        "Temperature (deg C)": 316,
+        "Yield Strength (MPa)": 361.04
+    },
+    {
+        "formula": "Nb77.6Ti17.7Zr4.7",
+        "Temperature (deg C)": 427,
+        "Yield Strength (MPa)": 315.18
+    },
+    {
+        "formula": "Nb77.6Ti17.7Zr4.7",
+        "Temperature (deg C)": 538,
+        "Yield Strength (MPa)": 280.18
+    },
+    {
+        "formula": "Nb77.6Ti17.7Zr4.7",
+        "Temperature (deg C)": 649,
+        "Yield Strength (MPa)": 262.07
+    },
+    {
+        "formula": "Nb77.6Ti17.7Zr4.7",
+        "Temperature (deg C)": 760,
+        "Yield Strength (MPa)": 248.79
+    },
+    {
+        "formula": "Nb77.6Ti17.7Zr4.7",
+        "Temperature (deg C)": 871,
+        "Yield Strength (MPa)": 239.14
+    },
+    {
+        "formula": "Nb77.6Ti17.7Zr4.7",
+        "Temperature (deg C)": 982,
+        "Yield Strength (MPa)": 196.89
+    },
+    {
+        "formula": "Nb77.6Ti17.7Zr4.7",
+        "Temperature (deg C)": 1093,
+        "Yield Strength (MPa)": 152.23
+    },
+    {
+        "formula": "Nb77.6Ti17.7Zr4.7",
+        "Temperature (deg C)": 1149,
+        "Yield Strength (MPa)": 128.09
+    },
+    {
+        "formula": "Nb72.8C0.7Mo8.8Ti17.7",
+        "Temperature (deg C)": 93,
+        "Yield Strength (MPa)": 598.49
+    },
+    {
+        "formula": "Nb72.8C0.7Mo8.8Ti17.7",
+        "Temperature (deg C)": 204,
+        "Yield Strength (MPa)": 491.61
+    },
+    {
+        "formula": "Nb72.8C0.7Mo8.8Ti17.7",
+        "Temperature (deg C)": 316,
+        "Yield Strength (MPa)": 380.6
+    },
+    {
+        "formula": "Nb72.8C0.7Mo8.8Ti17.7",
+        "Temperature (deg C)": 427,
+        "Yield Strength (MPa)": 380.6
+    },
+    {
+        "formula": "Nb72.8C0.7Mo8.8Ti17.7",
+        "Temperature (deg C)": 538,
+        "Yield Strength (MPa)": 330.27
+    },
+    {
+        "formula": "Nb72.8C0.7Mo8.8Ti17.7",
+        "Temperature (deg C)": 649,
+        "Yield Strength (MPa)": 317.17
+    },
+    {
+        "formula": "Nb72.8C0.7Mo8.8Ti17.7",
+        "Temperature (deg C)": 760,
+        "Yield Strength (MPa)": 266.15
+    },
+    {
+        "formula": "Nb72.8C0.7Mo8.8Ti17.7",
+        "Temperature (deg C)": 871,
+        "Yield Strength (MPa)": 248.91
+    },
+    {
+        "formula": "Nb72.8C0.7Mo8.8Ti17.7",
+        "Temperature (deg C)": 982,
+        "Yield Strength (MPa)": 225.47
+    },
+    {
+        "formula": "Nb72.8C0.7Mo8.8Ti17.7",
+        "Temperature (deg C)": 1093,
+        "Yield Strength (MPa)": 177.89
+    },
+    {
+        "formula": "Nb72.8C0.7Mo8.8Ti17.7",
+        "Temperature (deg C)": 1427,
+        "Yield Strength (MPa)": 55.16
+    },
+    {
+        "formula": "Nb96.4W2.6Zr1.0",
+        "Temperature (deg C)": 24,
+        "Yield Strength (MPa)": 450.93
+    },
+    {
+        "formula": "Nb96.4W2.6Zr1.0",
+        "Temperature (deg C)": 871,
+        "Yield Strength (MPa)": 344.75
+    },
+    {
+        "formula": "Nb96.4W2.6Zr1.0",
+        "Temperature (deg C)": 1093,
+        "Yield Strength (MPa)": 264.08
+    },
+    {
+        "formula": "Nb96.4W2.6Zr1.0",
+        "Temperature (deg C)": 1260,
+        "Yield Strength (MPa)": 193.06
+    },
+    {
+        "formula": "Nb96.4W2.6Zr1.0",
+        "Temperature (deg C)": 1371,
+        "Yield Strength (MPa)": 85.5
+    },
+    {
+        "formula": "Nb92.9C0.8W5.3Zr1.1",
+        "Temperature (deg C)": 24,
+        "Yield Strength (MPa)": 534.36
+    },
+    {
+        "formula": "Nb92.9C0.8W5.3Zr1.1",
+        "Temperature (deg C)": 1093,
+        "Yield Strength (MPa)": 272.35
+    },
+    {
+        "formula": "Nb92.9C0.8W5.3Zr1.1",
+        "Temperature (deg C)": 1204,
+        "Yield Strength (MPa)": 172.38
+    },
+    {
+        "formula": "Nb92.9C0.8W5.3Zr1.1",
+        "Temperature (deg C)": 1316,
+        "Yield Strength (MPa)": 151.69
+    },
+    {
+        "formula": "Nb92.9C0.8W5.3Zr1.1",
+        "Temperature (deg C)": 1427,
+        "Yield Strength (MPa)": 89.64
+    },
+    {
+        "formula": "Nb92.0W5.3Zr2.7",
+        "Temperature (deg C)": 24,
+        "Yield Strength (MPa)": 472.31
+    },
+    {
+        "formula": "Nb92.0W5.3Zr2.7",
+        "Temperature (deg C)": 399,
+        "Yield Strength (MPa)": 272.35
+    },
+    {
+        "formula": "Nb92.0W5.3Zr2.7",
+        "Temperature (deg C)": 538,
+        "Yield Strength (MPa)": 254.43
+    },
+    {
+        "formula": "Nb92.0W5.3Zr2.7",
+        "Temperature (deg C)": 1093,
+        "Yield Strength (MPa)": 181.34
+    },
+    {
+        "formula": "Nb92.0W5.3Zr2.7",
+        "Temperature (deg C)": 1316,
+        "Yield Strength (MPa)": 137.21
+    },
+    {
+        "formula": "Nb92.0W5.3Zr2.7",
+        "Temperature (deg C)": 1482,
+        "Yield Strength (MPa)": 115.15
+    },
+    {
+        "formula": "Nb92.0W5.3Zr2.7",
+        "Temperature (deg C)": 1649,
+        "Yield Strength (MPa)": 65.5
+    },
+    {
+        "formula": "Nb88.6Hf5.8W5.6",
+        "Temperature (deg C)": 24,
+        "Yield Strength (MPa)": 487.48
+    },
+    {
+        "formula": "Nb88.6Hf5.8W5.6",
+        "Temperature (deg C)": 316,
+        "Yield Strength (MPa)": 313.03
+    },
+    {
+        "formula": "Nb88.6Hf5.8W5.6",
+        "Temperature (deg C)": 649,
+        "Yield Strength (MPa)": 248.91
+    },
+    {
+        "formula": "Nb88.6Hf5.8W5.6",
+        "Temperature (deg C)": 1093,
+        "Yield Strength (MPa)": 200.64
+    },
+    {
+        "formula": "Nb88.6Hf5.8W5.6",
+        "Temperature (deg C)": 1371,
+        "Yield Strength (MPa)": 138.59
+    },
+    {
+        "formula": "Nb88.6Hf5.8W5.6",
+        "Temperature (deg C)": 1482,
+        "Yield Strength (MPa)": 120.66
+    },
+    {
+        "formula": "Nb88.6Hf5.8W5.6",
+        "Temperature (deg C)": 1649,
+        "Yield Strength (MPa)": 79.98
+    },
+    {
+        "formula": "Nb85.5Mo5.2W8.2Zr1.1",
+        "Temperature (deg C)": 24,
+        "Yield Strength (MPa)": 689.5
+    },
+    {
+        "formula": "Nb85.5Mo5.2W8.2Zr1.1",
+        "Temperature (deg C)": 538,
+        "Yield Strength (MPa)": 522.64
+    },
+    {
+        "formula": "Nb85.5Mo5.2W8.2Zr1.1",
+        "Temperature (deg C)": 871,
+        "Yield Strength (MPa)": 499.89
+    },
+    {
+        "formula": "Nb85.5Mo5.2W8.2Zr1.1",
+        "Temperature (deg C)": 1093,
+        "Yield Strength (MPa)": 406.81
+    },
+    {
+        "formula": "Nb85.5Mo5.2W8.2Zr1.1",
+        "Temperature (deg C)": 1204,
+        "Yield Strength (MPa)": 313.72
+    },
+    {
+        "formula": "Nb85.5Mo5.2W8.2Zr1.1",
+        "Temperature (deg C)": 1288,
+        "Yield Strength (MPa)": 268.91
+    },
+    {
+        "formula": "Nb85.5Mo5.2W8.2Zr1.1",
+        "Temperature (deg C)": 1371,
+        "Yield Strength (MPa)": 192.37
+    },
+    {
+        "formula": "Nb85.5Mo5.2W8.2Zr1.1",
+        "Temperature (deg C)": 1482,
+        "Yield Strength (MPa)": 157.21
+    },
+    {
+        "formula": "Nb76.2Mo5.0Ti10.0W7.8Zr1.0",
+        "Temperature (deg C)": 30,
+        "Yield Strength (MPa)": 558.01
+    },
+    {
+        "formula": "Nb76.2Mo5.0Ti10.0W7.8Zr1.0",
+        "Temperature (deg C)": 649,
+        "Yield Strength (MPa)": 459.71
+    },
+    {
+        "formula": "Nb76.2Mo5.0Ti10.0W7.8Zr1.0",
+        "Temperature (deg C)": 1093,
+        "Yield Strength (MPa)": 234.67
+    },
+    {
+        "formula": "Nb76.2Mo5.0Ti10.0W7.8Zr1.0",
+        "Temperature (deg C)": 1205,
+        "Yield Strength (MPa)": 185.44
+    },
+    {
+        "formula": "Nb87.7W11.2Zr1.1",
+        "Temperature (deg C)": 24,
+        "Yield Strength (MPa)": 985.99
+    },
+    {
+        "formula": "Nb87.7W11.2Zr1.1",
+        "Temperature (deg C)": 871,
+        "Yield Strength (MPa)": 635.72
+    },
+    {
+        "formula": "Nb87.7W11.2Zr1.1",
+        "Temperature (deg C)": 1093,
+        "Yield Strength (MPa)": 559.18
+    },
+    {
+        "formula": "Nb87.7W11.2Zr1.1",
+        "Temperature (deg C)": 1204,
+        "Yield Strength (MPa)": 462.65
+    },
+    {
+        "formula": "Nb64.4W10.2Ti19.5Mo5.8",
+        "Temperature (deg C)": 204,
+        "Yield Strength (MPa)": 655.03
+    },
+    {
+        "formula": "Nb64.4W10.2Ti19.5Mo5.8",
+        "Temperature (deg C)": 316,
+        "Yield Strength (MPa)": 537.81
+    },
+    {
+        "formula": "Nb64.4W10.2Ti19.5Mo5.8",
+        "Temperature (deg C)": 427,
+        "Yield Strength (MPa)": 475.76
+    },
+    {
+        "formula": "Nb64.4W10.2Ti19.5Mo5.8",
+        "Temperature (deg C)": 538,
+        "Yield Strength (MPa)": 448.18
+    },
+    {
+        "formula": "Nb64.4W10.2Ti19.5Mo5.8",
+        "Temperature (deg C)": 649,
+        "Yield Strength (MPa)": 424.04
+    },
+    {
+        "formula": "Nb64.4W10.2Ti19.5Mo5.8",
+        "Temperature (deg C)": 760,
+        "Yield Strength (MPa)": 424.04
+    },
+    {
+        "formula": "Nb64.4W10.2Ti19.5Mo5.8",
+        "Temperature (deg C)": 871,
+        "Yield Strength (MPa)": 393.02
+    },
+    {
+        "formula": "Nb64.4W10.2Ti19.5Mo5.8",
+        "Temperature (deg C)": 982,
+        "Yield Strength (MPa)": 330.96
+    },
+    {
+        "formula": "Nb64.4W10.2Ti19.5Mo5.8",
+        "Temperature (deg C)": 1093,
+        "Yield Strength (MPa)": 313.72
+    },
+    {
+        "formula": "Nb85.6V8.8Mo4.7Zr1.0",
+        "Temperature (deg C)": 24,
+        "Yield Strength (MPa)": 604.0
+    },
+    {
+        "formula": "Nb85.6V8.8Mo4.7Zr1.0",
+        "Temperature (deg C)": 982,
+        "Yield Strength (MPa)": 450.93
+    },
+    {
+        "formula": "Nb85.6V8.8Mo4.7Zr1.0",
+        "Temperature (deg C)": 1093,
+        "Yield Strength (MPa)": 315.79
+    },
+    {
+        "formula": "Nb85.6V8.8Mo4.7Zr1.0",
+        "Temperature (deg C)": 1204,
+        "Yield Strength (MPa)": 260.63
+    },
+    {
+        "formula": "Nb85.6V8.8Mo4.7Zr1.0",
+        "Temperature (deg C)": 1316,
+        "Yield Strength (MPa)": 239.95
+    },
+    {
+        "formula": "Nb85.6V8.8Mo4.7Zr1.0",
+        "Temperature (deg C)": 1427,
+        "Yield Strength (MPa)": 202.02
+    },
+    {
+        "formula": "Nb85.6V8.8Mo4.7Zr1.0",
+        "Temperature (deg C)": 1538,
+        "Yield Strength (MPa)": 124.8
+    }
+]

@@ -1,0 +1,722 @@
+[
+    {
+        "formula": "Nb99.0Zr1.0",
+        "Temperature (deg C)": 24,
+        "Ultimate Strength (MPa)": 330.96
+    },
+    {
+        "formula": "Nb99.0Zr1.0",
+        "Temperature (deg C)": 1093,
+        "Ultimate Strength (MPa)": 157.9
+    },
+    {
+        "formula": "Nb99.0Zr1.0",
+        "Temperature (deg C)": 1371,
+        "Ultimate Strength (MPa)": 59.64
+    },
+    {
+        "formula": "Nb99.0Zr1.0",
+        "Temperature (deg C)": 1482,
+        "Ultimate Strength (MPa)": 40.68
+    },
+    {
+        "formula": "Nb99.0Zr1.0",
+        "Temperature (deg C)": 1649,
+        "Ultimate Strength (MPa)": 20.34
+    },
+    {
+        "formula": "Nb94.9Zr5.1",
+        "Temperature (deg C)": 16,
+        "Ultimate Strength (MPa)": 523.79
+    },
+    {
+        "formula": "Nb94.9Zr5.1",
+        "Temperature (deg C)": 227,
+        "Ultimate Strength (MPa)": 477.55
+    },
+    {
+        "formula": "Nb94.9Zr5.1",
+        "Temperature (deg C)": 446,
+        "Ultimate Strength (MPa)": 453.43
+    },
+    {
+        "formula": "Nb94.9Zr5.1",
+        "Temperature (deg C)": 659,
+        "Ultimate Strength (MPa)": 446.97
+    },
+    {
+        "formula": "Nb94.9Zr5.1",
+        "Temperature (deg C)": 885,
+        "Ultimate Strength (MPa)": 433.89
+    },
+    {
+        "formula": "Nb94.9Zr5.1",
+        "Temperature (deg C)": 1092,
+        "Ultimate Strength (MPa)": 239.6
+    },
+    {
+        "formula": "Nb94.9Zr5.1",
+        "Temperature (deg C)": 1315,
+        "Ultimate Strength (MPa)": 106.08
+    },
+    {
+        "formula": "Nb94.9Zr5.1",
+        "Temperature (deg C)": 1372,
+        "Ultimate Strength (MPa)": 105.02
+    },
+    {
+        "formula": "Nb91.2V8.8",
+        "Temperature (deg C)": 24,
+        "Ultimate Strength (MPa)": 535.05
+    },
+    {
+        "formula": "Nb91.2V8.8",
+        "Temperature (deg C)": 149,
+        "Ultimate Strength (MPa)": 467.48
+    },
+    {
+        "formula": "Nb91.2V8.8",
+        "Temperature (deg C)": 316,
+        "Ultimate Strength (MPa)": 434.39
+    },
+    {
+        "formula": "Nb91.2V8.8",
+        "Temperature (deg C)": 427,
+        "Ultimate Strength (MPa)": 437.14
+    },
+    {
+        "formula": "Nb91.2V8.8",
+        "Temperature (deg C)": 1093,
+        "Ultimate Strength (MPa)": 270.28
+    },
+    {
+        "formula": "Nb91.2V8.8",
+        "Temperature (deg C)": 1204,
+        "Ultimate Strength (MPa)": 221.33
+    },
+    {
+        "formula": "Nb91.2V8.8",
+        "Temperature (deg C)": 1316,
+        "Ultimate Strength (MPa)": 165.48
+    },
+    {
+        "formula": "Nb91.2V8.8",
+        "Temperature (deg C)": 1371,
+        "Ultimate Strength (MPa)": 121.35
+    },
+    {
+        "formula": "Nb91.2V8.8",
+        "Temperature (deg C)": 1538,
+        "Ultimate Strength (MPa)": 99.29
+    },
+    {
+        "formula": "Nb92.0Hf5.4Ti2.0Zr0.5",
+        "Temperature (deg C)": 24,
+        "Ultimate Strength (MPa)": 405.43
+    },
+    {
+        "formula": "Nb92.0Hf5.4Ti2.0Zr0.5",
+        "Temperature (deg C)": 1093,
+        "Ultimate Strength (MPa)": 188.23
+    },
+    {
+        "formula": "Nb92.0Hf5.4Ti2.0Zr0.5",
+        "Temperature (deg C)": 1371,
+        "Ultimate Strength (MPa)": 82.74
+    },
+    {
+        "formula": "Nb92.0Hf5.4Ti2.0Zr0.5",
+        "Temperature (deg C)": 1482,
+        "Ultimate Strength (MPa)": 65.5
+    },
+    {
+        "formula": "Nb92.0Hf5.4Ti2.0Zr0.5",
+        "Temperature (deg C)": 1649,
+        "Ultimate Strength (MPa)": 34.48
+    },
+    {
+        "formula": "Nb88.7Ta5.7W5.6",
+        "Temperature (deg C)": 24,
+        "Ultimate Strength (MPa)": 517.13
+    },
+    {
+        "formula": "Nb88.7Ta5.7W5.6",
+        "Temperature (deg C)": 427,
+        "Ultimate Strength (MPa)": 413.7
+    },
+    {
+        "formula": "Nb88.7Ta5.7W5.6",
+        "Temperature (deg C)": 538,
+        "Ultimate Strength (MPa)": 358.54
+    },
+    {
+        "formula": "Nb88.7Ta5.7W5.6",
+        "Temperature (deg C)": 649,
+        "Ultimate Strength (MPa)": 330.96
+    },
+    {
+        "formula": "Nb88.7Ta5.7W5.6",
+        "Temperature (deg C)": 871,
+        "Ultimate Strength (MPa)": 310.28
+    },
+    {
+        "formula": "Nb88.7Ta5.7W5.6",
+        "Temperature (deg C)": 982,
+        "Ultimate Strength (MPa)": 268.91
+    },
+    {
+        "formula": "Nb88.7Ta5.7W5.6",
+        "Temperature (deg C)": 1093,
+        "Ultimate Strength (MPa)": 220.64
+    },
+    {
+        "formula": "Nb88.7Ta5.7W5.6",
+        "Temperature (deg C)": 1204,
+        "Ultimate Strength (MPa)": 186.17
+    },
+    {
+        "formula": "Nb88.7Ta5.7W5.6",
+        "Temperature (deg C)": 1316,
+        "Ultimate Strength (MPa)": 144.8
+    },
+    {
+        "formula": "Nb88.7Ta5.7W5.6",
+        "Temperature (deg C)": 1371,
+        "Ultimate Strength (MPa)": 124.11
+    },
+    {
+        "formula": "Nb88.7Ta5.7W5.6",
+        "Temperature (deg C)": 1427,
+        "Ultimate Strength (MPa)": 110.32
+    },
+    {
+        "formula": "Nb88.7Ta5.7W5.6",
+        "Temperature (deg C)": 1538,
+        "Ultimate Strength (MPa)": 82.74
+    },
+    {
+        "formula": "Nb88.7Ta5.7W5.6",
+        "Temperature (deg C)": 1649,
+        "Ultimate Strength (MPa)": 68.95
+    },
+    {
+        "formula": "Nb88.7Ta5.7W5.6",
+        "Temperature (deg C)": 1760,
+        "Ultimate Strength (MPa)": 55.16
+    },
+    {
+        "formula": "Nb88.7Ta5.7W5.6",
+        "Temperature (deg C)": 1871,
+        "Ultimate Strength (MPa)": 44.82
+    },
+    {
+        "formula": "Nb74.9Ta17.7W6.2Zr1.3",
+        "Temperature (deg C)": 24,
+        "Ultimate Strength (MPa)": 599.18
+    },
+    {
+        "formula": "Nb74.9Ta17.7W6.2Zr1.3",
+        "Temperature (deg C)": 204,
+        "Ultimate Strength (MPa)": 468.86
+    },
+    {
+        "formula": "Nb74.9Ta17.7W6.2Zr1.3",
+        "Temperature (deg C)": 427,
+        "Ultimate Strength (MPa)": 367.5
+    },
+    {
+        "formula": "Nb74.9Ta17.7W6.2Zr1.3",
+        "Temperature (deg C)": 649,
+        "Ultimate Strength (MPa)": 435.07
+    },
+    {
+        "formula": "Nb74.9Ta17.7W6.2Zr1.3",
+        "Temperature (deg C)": 871,
+        "Ultimate Strength (MPa)": 357.16
+    },
+    {
+        "formula": "Nb74.9Ta17.7W6.2Zr1.3",
+        "Temperature (deg C)": 982,
+        "Ultimate Strength (MPa)": 310.28
+    },
+    {
+        "formula": "Nb74.9Ta17.7W6.2Zr1.3",
+        "Temperature (deg C)": 1093,
+        "Ultimate Strength (MPa)": 248.22
+    },
+    {
+        "formula": "Nb74.9Ta17.7W6.2Zr1.3",
+        "Temperature (deg C)": 1260,
+        "Ultimate Strength (MPa)": 173.75
+    },
+    {
+        "formula": "Nb74.9Ta17.7W6.2Zr1.3",
+        "Temperature (deg C)": 1371,
+        "Ultimate Strength (MPa)": 119.97
+    },
+    {
+        "formula": "Nb74.9Ta17.7W6.2Zr1.3",
+        "Temperature (deg C)": 1427,
+        "Ultimate Strength (MPa)": 101.36
+    },
+    {
+        "formula": "Nb79.3Ta19.5Zr1.2",
+        "Temperature (deg C)": 27,
+        "Ultimate Strength (MPa)": 606.87
+    },
+    {
+        "formula": "Nb79.3Ta19.5Zr1.2",
+        "Temperature (deg C)": 316,
+        "Ultimate Strength (MPa)": 491.19
+    },
+    {
+        "formula": "Nb79.3Ta19.5Zr1.2",
+        "Temperature (deg C)": 538,
+        "Ultimate Strength (MPa)": 471.91
+    },
+    {
+        "formula": "Nb79.3Ta19.5Zr1.2",
+        "Temperature (deg C)": 871,
+        "Ultimate Strength (MPa)": 448.04
+    },
+    {
+        "formula": "Nb79.3Ta19.5Zr1.2",
+        "Temperature (deg C)": 982,
+        "Ultimate Strength (MPa)": 439.77
+    },
+    {
+        "formula": "Nb79.3Ta19.5Zr1.2",
+        "Temperature (deg C)": 1093,
+        "Ultimate Strength (MPa)": 388.36
+    },
+    {
+        "formula": "Nb79.3Ta19.5Zr1.2",
+        "Temperature (deg C)": 1204,
+        "Ultimate Strength (MPa)": 281.86
+    },
+    {
+        "formula": "Nb79.3Ta19.5Zr1.2",
+        "Temperature (deg C)": 1316,
+        "Ultimate Strength (MPa)": 195.56
+    },
+    {
+        "formula": "Nb79.3Ta19.5Zr1.2",
+        "Temperature (deg C)": 1427,
+        "Ultimate Strength (MPa)": 160.67
+    },
+    {
+        "formula": "Nb77.6Ti17.7Zr4.7",
+        "Temperature (deg C)": 22,
+        "Ultimate Strength (MPa)": 554.62
+    },
+    {
+        "formula": "Nb77.6Ti17.7Zr4.7",
+        "Temperature (deg C)": 93,
+        "Ultimate Strength (MPa)": 519.17
+    },
+    {
+        "formula": "Nb77.6Ti17.7Zr4.7",
+        "Temperature (deg C)": 204,
+        "Ultimate Strength (MPa)": 486.25
+    },
+    {
+        "formula": "Nb77.6Ti17.7Zr4.7",
+        "Temperature (deg C)": 316,
+        "Ultimate Strength (MPa)": 459.46
+    },
+    {
+        "formula": "Nb77.6Ti17.7Zr4.7",
+        "Temperature (deg C)": 427,
+        "Ultimate Strength (MPa)": 442.49
+    },
+    {
+        "formula": "Nb77.6Ti17.7Zr4.7",
+        "Temperature (deg C)": 538,
+        "Ultimate Strength (MPa)": 432.88
+    },
+    {
+        "formula": "Nb77.6Ti17.7Zr4.7",
+        "Temperature (deg C)": 649,
+        "Ultimate Strength (MPa)": 412.23
+    },
+    {
+        "formula": "Nb77.6Ti17.7Zr4.7",
+        "Temperature (deg C)": 760,
+        "Ultimate Strength (MPa)": 384.22
+    },
+    {
+        "formula": "Nb77.6Ti17.7Zr4.7",
+        "Temperature (deg C)": 871,
+        "Ultimate Strength (MPa)": 336.57
+    },
+    {
+        "formula": "Nb77.6Ti17.7Zr4.7",
+        "Temperature (deg C)": 982,
+        "Ultimate Strength (MPa)": 247.22
+    },
+    {
+        "formula": "Nb77.6Ti17.7Zr4.7",
+        "Temperature (deg C)": 1093,
+        "Ultimate Strength (MPa)": 165.22
+    },
+    {
+        "formula": "Nb77.6Ti17.7Zr4.7",
+        "Temperature (deg C)": 1149,
+        "Ultimate Strength (MPa)": 128.09
+    },
+    {
+        "formula": "Nb72.8C0.7Mo8.8Ti17.7",
+        "Temperature (deg C)": 24,
+        "Ultimate Strength (MPa)": 637.79
+    },
+    {
+        "formula": "Nb72.8C0.7Mo8.8Ti17.7",
+        "Temperature (deg C)": 93,
+        "Ultimate Strength (MPa)": 627.45
+    },
+    {
+        "formula": "Nb72.8C0.7Mo8.8Ti17.7",
+        "Temperature (deg C)": 204,
+        "Ultimate Strength (MPa)": 550.91
+    },
+    {
+        "formula": "Nb72.8C0.7Mo8.8Ti17.7",
+        "Temperature (deg C)": 316,
+        "Ultimate Strength (MPa)": 466.79
+    },
+    {
+        "formula": "Nb72.8C0.7Mo8.8Ti17.7",
+        "Temperature (deg C)": 427,
+        "Ultimate Strength (MPa)": 462.65
+    },
+    {
+        "formula": "Nb72.8C0.7Mo8.8Ti17.7",
+        "Temperature (deg C)": 538,
+        "Ultimate Strength (MPa)": 455.07
+    },
+    {
+        "formula": "Nb72.8C0.7Mo8.8Ti17.7",
+        "Temperature (deg C)": 649,
+        "Ultimate Strength (MPa)": 415.08
+    },
+    {
+        "formula": "Nb72.8C0.7Mo8.8Ti17.7",
+        "Temperature (deg C)": 760,
+        "Ultimate Strength (MPa)": 373.02
+    },
+    {
+        "formula": "Nb72.8C0.7Mo8.8Ti17.7",
+        "Temperature (deg C)": 871,
+        "Ultimate Strength (MPa)": 316.48
+    },
+    {
+        "formula": "Nb72.8C0.7Mo8.8Ti17.7",
+        "Temperature (deg C)": 982,
+        "Ultimate Strength (MPa)": 250.29
+    },
+    {
+        "formula": "Nb72.8C0.7Mo8.8Ti17.7",
+        "Temperature (deg C)": 1093,
+        "Ultimate Strength (MPa)": 180.65
+    },
+    {
+        "formula": "Nb72.8C0.7Mo8.8Ti17.7",
+        "Temperature (deg C)": 1260,
+        "Ultimate Strength (MPa)": 120.66
+    },
+    {
+        "formula": "Nb72.8C0.7Mo8.8Ti17.7",
+        "Temperature (deg C)": 1427,
+        "Ultimate Strength (MPa)": 70.33
+    },
+    {
+        "formula": "Nb96.4W2.6Zr1.0",
+        "Temperature (deg C)": 24,
+        "Ultimate Strength (MPa)": 584.01
+    },
+    {
+        "formula": "Nb96.4W2.6Zr1.0",
+        "Temperature (deg C)": 871,
+        "Ultimate Strength (MPa)": 399.91
+    },
+    {
+        "formula": "Nb96.4W2.6Zr1.0",
+        "Temperature (deg C)": 1093,
+        "Ultimate Strength (MPa)": 275.8
+    },
+    {
+        "formula": "Nb96.4W2.6Zr1.0",
+        "Temperature (deg C)": 1260,
+        "Ultimate Strength (MPa)": 208.92
+    },
+    {
+        "formula": "Nb96.4W2.6Zr1.0",
+        "Temperature (deg C)": 1371,
+        "Ultimate Strength (MPa)": 97.22
+    },
+    {
+        "formula": "Nb92.9C0.8W5.3Zr1.1",
+        "Temperature (deg C)": 24,
+        "Ultimate Strength (MPa)": 672.26
+    },
+    {
+        "formula": "Nb92.9C0.8W5.3Zr1.1",
+        "Temperature (deg C)": 1093,
+        "Ultimate Strength (MPa)": 324.07
+    },
+    {
+        "formula": "Nb92.9C0.8W5.3Zr1.1",
+        "Temperature (deg C)": 1204,
+        "Ultimate Strength (MPa)": 244.77
+    },
+    {
+        "formula": "Nb92.9C0.8W5.3Zr1.1",
+        "Temperature (deg C)": 1316,
+        "Ultimate Strength (MPa)": 175.82
+    },
+    {
+        "formula": "Nb92.9C0.8W5.3Zr1.1",
+        "Temperature (deg C)": 1427,
+        "Ultimate Strength (MPa)": 94.81
+    },
+    {
+        "formula": "Nb92.0W5.3Zr2.7",
+        "Temperature (deg C)": 24,
+        "Ultimate Strength (MPa)": 601.24
+    },
+    {
+        "formula": "Nb92.0W5.3Zr2.7",
+        "Temperature (deg C)": 399,
+        "Ultimate Strength (MPa)": 429.56
+    },
+    {
+        "formula": "Nb92.0W5.3Zr2.7",
+        "Temperature (deg C)": 538,
+        "Ultimate Strength (MPa)": 383.36
+    },
+    {
+        "formula": "Nb92.0W5.3Zr2.7",
+        "Temperature (deg C)": 1093,
+        "Ultimate Strength (MPa)": 242.01
+    },
+    {
+        "formula": "Nb92.0W5.3Zr2.7",
+        "Temperature (deg C)": 1316,
+        "Ultimate Strength (MPa)": 178.58
+    },
+    {
+        "formula": "Nb92.0W5.3Zr2.7",
+        "Temperature (deg C)": 1482,
+        "Ultimate Strength (MPa)": 117.22
+    },
+    {
+        "formula": "Nb92.0W5.3Zr2.7",
+        "Temperature (deg C)": 1649,
+        "Ultimate Strength (MPa)": 68.95
+    },
+    {
+        "formula": "Nb88.6Hf5.8W5.6",
+        "Temperature (deg C)": 24,
+        "Ultimate Strength (MPa)": 584.01
+    },
+    {
+        "formula": "Nb88.6Hf5.8W5.6",
+        "Temperature (deg C)": 316,
+        "Ultimate Strength (MPa)": 406.81
+    },
+    {
+        "formula": "Nb88.6Hf5.8W5.6",
+        "Temperature (deg C)": 649,
+        "Ultimate Strength (MPa)": 407.49
+    },
+    {
+        "formula": "Nb88.6Hf5.8W5.6",
+        "Temperature (deg C)": 1093,
+        "Ultimate Strength (MPa)": 270.28
+    },
+    {
+        "formula": "Nb88.6Hf5.8W5.6",
+        "Temperature (deg C)": 1371,
+        "Ultimate Strength (MPa)": 150.31
+    },
+    {
+        "formula": "Nb88.6Hf5.8W5.6",
+        "Temperature (deg C)": 1482,
+        "Ultimate Strength (MPa)": 126.18
+    },
+    {
+        "formula": "Nb88.6Hf5.8W5.6",
+        "Temperature (deg C)": 1649,
+        "Ultimate Strength (MPa)": 84.81
+    },
+    {
+        "formula": "Nb85.5Mo5.2W8.2Zr1.1",
+        "Temperature (deg C)": 24,
+        "Ultimate Strength (MPa)": 834.3
+    },
+    {
+        "formula": "Nb85.5Mo5.2W8.2Zr1.1",
+        "Temperature (deg C)": 538,
+        "Ultimate Strength (MPa)": 545.39
+    },
+    {
+        "formula": "Nb85.5Mo5.2W8.2Zr1.1",
+        "Temperature (deg C)": 871,
+        "Ultimate Strength (MPa)": 541.26
+    },
+    {
+        "formula": "Nb85.5Mo5.2W8.2Zr1.1",
+        "Temperature (deg C)": 1093,
+        "Ultimate Strength (MPa)": 450.24
+    },
+    {
+        "formula": "Nb85.5Mo5.2W8.2Zr1.1",
+        "Temperature (deg C)": 1204,
+        "Ultimate Strength (MPa)": 366.12
+    },
+    {
+        "formula": "Nb85.5Mo5.2W8.2Zr1.1",
+        "Temperature (deg C)": 1288,
+        "Ultimate Strength (MPa)": 311.65
+    },
+    {
+        "formula": "Nb85.5Mo5.2W8.2Zr1.1",
+        "Temperature (deg C)": 1371,
+        "Ultimate Strength (MPa)": 222.71
+    },
+    {
+        "formula": "Nb85.5Mo5.2W8.2Zr1.1",
+        "Temperature (deg C)": 1482,
+        "Ultimate Strength (MPa)": 171.0
+    },
+    {
+        "formula": "Nb76.2Mo5.0Ti10.0W7.8Zr1.0",
+        "Temperature (deg C)": 30,
+        "Ultimate Strength (MPa)": 849.66
+    },
+    {
+        "formula": "Nb76.2Mo5.0Ti10.0W7.8Zr1.0",
+        "Temperature (deg C)": 649,
+        "Ultimate Strength (MPa)": 650.7
+    },
+    {
+        "formula": "Nb76.2Mo5.0Ti10.0W7.8Zr1.0",
+        "Temperature (deg C)": 1093,
+        "Ultimate Strength (MPa)": 353.11
+    },
+    {
+        "formula": "Nb76.2Mo5.0Ti10.0W7.8Zr1.0",
+        "Temperature (deg C)": 1205,
+        "Ultimate Strength (MPa)": 252.04
+    },
+    {
+        "formula": "Nb87.7W11.2Zr1.1",
+        "Temperature (deg C)": 24,
+        "Ultimate Strength (MPa)": 1182.49
+    },
+    {
+        "formula": "Nb87.7W11.2Zr1.1",
+        "Temperature (deg C)": 871,
+        "Ultimate Strength (MPa)": 698.46
+    },
+    {
+        "formula": "Nb87.7W11.2Zr1.1",
+        "Temperature (deg C)": 1093,
+        "Ultimate Strength (MPa)": 586.08
+    },
+    {
+        "formula": "Nb87.7W11.2Zr1.1",
+        "Temperature (deg C)": 1204,
+        "Ultimate Strength (MPa)": 495.75
+    },
+    {
+        "formula": "Nb64.4W10.2Ti19.5Mo5.8",
+        "Temperature (deg C)": 204,
+        "Ultimate Strength (MPa)": 682.61
+    },
+    {
+        "formula": "Nb64.4W10.2Ti19.5Mo5.8",
+        "Temperature (deg C)": 316,
+        "Ultimate Strength (MPa)": 603.31
+    },
+    {
+        "formula": "Nb64.4W10.2Ti19.5Mo5.8",
+        "Temperature (deg C)": 427,
+        "Ultimate Strength (MPa)": 558.5
+    },
+    {
+        "formula": "Nb64.4W10.2Ti19.5Mo5.8",
+        "Temperature (deg C)": 538,
+        "Ultimate Strength (MPa)": 586.08
+    },
+    {
+        "formula": "Nb64.4W10.2Ti19.5Mo5.8",
+        "Temperature (deg C)": 649,
+        "Ultimate Strength (MPa)": 558.5
+    },
+    {
+        "formula": "Nb64.4W10.2Ti19.5Mo5.8",
+        "Temperature (deg C)": 760,
+        "Ultimate Strength (MPa)": 558.5
+    },
+    {
+        "formula": "Nb64.4W10.2Ti19.5Mo5.8",
+        "Temperature (deg C)": 871,
+        "Ultimate Strength (MPa)": 496.44
+    },
+    {
+        "formula": "Nb64.4W10.2Ti19.5Mo5.8",
+        "Temperature (deg C)": 982,
+        "Ultimate Strength (MPa)": 368.88
+    },
+    {
+        "formula": "Nb64.4W10.2Ti19.5Mo5.8",
+        "Temperature (deg C)": 1093,
+        "Ultimate Strength (MPa)": 337.86
+    },
+    {
+        "formula": "Nb64.4W10.2Ti19.5Mo5.8",
+        "Temperature (deg C)": 1260,
+        "Ultimate Strength (MPa)": 172.38
+    },
+    {
+        "formula": "Nb64.4W10.2Ti19.5Mo5.8",
+        "Temperature (deg C)": 1427,
+        "Ultimate Strength (MPa)": 147.55
+    },
+    {
+        "formula": "Nb85.6V8.8Mo4.7Zr1.0",
+        "Temperature (deg C)": 24,
+        "Ultimate Strength (MPa)": 768.1
+    },
+    {
+        "formula": "Nb85.6V8.8Mo4.7Zr1.0",
+        "Temperature (deg C)": 982,
+        "Ultimate Strength (MPa)": 482.65
+    },
+    {
+        "formula": "Nb85.6V8.8Mo4.7Zr1.0",
+        "Temperature (deg C)": 1093,
+        "Ultimate Strength (MPa)": 368.19
+    },
+    {
+        "formula": "Nb85.6V8.8Mo4.7Zr1.0",
+        "Temperature (deg C)": 1204,
+        "Ultimate Strength (MPa)": 287.8
+    },
+    {
+        "formula": "Nb85.6V8.8Mo4.7Zr1.0",
+        "Temperature (deg C)": 1316,
+        "Ultimate Strength (MPa)": 247.53
+    },
+    {
+        "formula": "Nb85.6V8.8Mo4.7Zr1.0",
+        "Temperature (deg C)": 1427,
+        "Ultimate Strength (MPa)": 178.58
+    },
+    {
+        "formula": "Nb85.6V8.8Mo4.7Zr1.0",
+        "Temperature (deg C)": 1538,
+        "Ultimate Strength (MPa)": 133.07
+    }
+]

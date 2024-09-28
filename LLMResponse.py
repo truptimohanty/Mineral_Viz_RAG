@@ -15,11 +15,14 @@ from langchain.chains import ConversationalRetrievalChain
 from langchain.chains import LLMChain
 from langchain.retrievers import MergerRetriever
 
+
 DATA_FILES_PATH = "docs/"
 MODEL_EMBEDDING_NAME = "WhereIsAI/UAE-Large-V1"
 
 VECTOR_DB_DIR_PDF= 'chroma_UAE_pdfs/'
 VECTOR_DB_DIR_JSON= 'chroma_UAE_jsons/'
+VECTOR_DB_DIR_USER_PDF= 'chroma_UAE_user_pdfs/'
+VECTOR_DB_DIR_USER_JSON= 'chroma_UAE_user_jsons/'
 
 MODEL_LLM_NAME = "meta-llama/Meta-Llama-3-8B-Instruct"
 
@@ -34,13 +37,26 @@ class LLMResponse():
         
         self.vectordb_json= self.get_vectordb(VECTOR_DB_DIR_JSON, 
                  embedding_model_name = MODEL_EMBEDDING_NAME)
-        self.retriever_pdf = self.vectordb_pdf.as_retriever(search_kwargs={'k':5})
-        self.retriever_json = self.vectordb_json.as_retriever(search_kwargs={'k':15})
         
+
+
+        self.vectordb_user_pdf= self.get_vectordb(VECTOR_DB_DIR_USER_PDF, 
+                 embedding_model_name = MODEL_EMBEDDING_NAME)
+        
+        self.vectordb_user_json= self.get_vectordb(VECTOR_DB_DIR_USER_JSON, 
+                 embedding_model_name = MODEL_EMBEDDING_NAME)
+
+        
+        self.retriever_pdf = self.vectordb_pdf.as_retriever(search_kwargs={'k':5})
+        self.retriever_json = self.vectordb_json.as_retriever(search_kwargs={'k':10})
+        self.retriever_user_pdf = self.vectordb_user_pdf.as_retriever(search_kwargs={'k':2})
+        self.retriever_user_json = self.vectordb_user_json.as_retriever(search_kwargs={'k':2})
         
         self.hf_llm = HuggingFacePipeline.from_model_id(
             model_id=MODEL_LLM_NAME,
+            
             task="text-generation",
+            pipeline_kwargs={"max_length": 8000}
         )
 
     def get_vectordb(self, vectordb_path:str, 
@@ -139,7 +155,7 @@ class LLMResponse():
 
         QA_CHAIN_PROMPT = PromptTemplate(input_variables=["question", "context"],template=template)
         # Run chain
-        self.lotr = MergerRetriever(retrievers=[self.retriever_pdf,self.retriever_json])
+        self.lotr = MergerRetriever(retrievers=[self.retriever_pdf,self.retriever_json,self.retriever_user_pdf,self.retriever_user_json])
         
         qa_chain = RetrievalQA.from_chain_type(self.hf_llm,
                                             retriever=self.lotr,
@@ -174,4 +190,3 @@ class LLMResponse():
             maintained_memory['inputs'] = maintained_memory['inputs'][-history_len::]
             maintained_memory['outputs'] = maintained_memory['outputs'][-history_len::]
         return res, maintained_memory
-    
